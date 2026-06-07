@@ -15,7 +15,7 @@ To use Advanced Encryption Standard (AES) Algorithm for a practical application 
 4.AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 ## NAME: RAJA RITHIKA
-## REG NO: 230500029
+## REG NO: 2305001029
 
 ## PROGRAM:
 ```
